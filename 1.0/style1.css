@@ -1,0 +1,39 @@
+body {
+    background-color: mediumpurple;
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Arial, Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    line-height:14pt;
+    padding-left:5pt;
+    padding-right:5pt;
+    padding-top: 5pt;
+}
+h1 {
+    font: 14pt verdana, geneva, arial, helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 20pt;
+}
+p.subheader{
+    font-weight:bold;
+    color: #593d87;
+}
+img {
+    padding: 3pt;
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+a:link, a:visited {
+    color:#8094d6;
+}
+a:hover, a:active {
+    color:#ff9933;
+}
+div.footer {
+    font-size: 9pt;
+    font-style:italic;
+    line-height: 12pt;
+    text-align: center;
+    padding-top: 30pt;
+}

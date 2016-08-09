@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-width: 525px;
+}
+#header{
+    width: 100%;
+    float: left;
+    background-color: midnightblue;
+}
+#footer{
+    width: 100%;
+    float: left;
+    background-color: midnightblue;
+}
+#left{
+    position: relative;
+    float: left;
+    width: 200px;
+    background-color: rebeccapurple;
+    margin-left:-72%;
+    right:200px;
+}
+#right{
+    position: relative;
+    float: left;
+    width: 125px;
+    background-color: palegreen;
+    margin-right:-125px;
+}
+#content {
+    position: relative;
+    float: left;
+    background-color: chartreuse;
+    width:100%;
+}
